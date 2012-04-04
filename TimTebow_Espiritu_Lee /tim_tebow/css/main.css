@@ -27,6 +27,10 @@ p {
 aside {
 	margin: 10px;
 	text-indent: 10px;
+<<<<<<< HEAD
+=======
+	color: green;
+>>>>>>> origin/master
 }
 nav {
 	margin: 60px;
