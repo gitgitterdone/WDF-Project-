@@ -1,15 +1,22 @@
 body {
+<<<<<<< HEAD
 	width: 900px;
+=======
+	width: 320px;
+>>>>>>> origin/master
 	background-color: black;
 	margin: 0 auto;
 }
 #box {
 	background-color: white;
 }
+<<<<<<< HEAD
 article {
 	width: 320px;
 	margin: 0 290px;
 }
+=======
+>>>>>>> origin/master
 h1 {
 	text-align: center;
 }
@@ -17,6 +24,7 @@ span {
 	font-style: italic;
 	color: green;
 }
+<<<<<<< HEAD
 figure {
 	margin: 0px 290px;
 }
@@ -28,18 +36,40 @@ h2 {
 }
 #email {
 	margin: 0 50px;
+=======
+h2 {
+	margin: 10px;
+}
+li {
+	color: green;
+>>>>>>> origin/master
 }
 p {
 	margin: 10px;
 	text-indent: 10px;
+<<<<<<< HEAD
+=======
+	color: green;
+>>>>>>> origin/master
 }
 aside {
 	margin: 10px;
 	text-indent: 10px;
+<<<<<<< HEAD
 }
 nav {
 	margin: 0 360px;
 }
 footer {
 	margin: 0 360px;
+=======
+	color: green;
+}
+nav {
+	margin: 60px;
+}
+footer {
+	margin: 10px;
+	color: green;
+>>>>>>> origin/master
 }
