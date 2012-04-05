@@ -1,10 +1,14 @@
 body {
-	width: 320px;
+	width: 900px;
 	background-color: black;
 	margin: 0 auto;
 }
 #box {
 	background-color: white;
+}
+article {
+	width: 320px;
+	margin: 0 290px;
 }
 h1 {
 	text-align: center;
@@ -13,29 +17,29 @@ span {
 	font-style: italic;
 	color: green;
 }
+figure {
+	margin: 0px 290px;
+}
+figcaption {
+	width: 320px;
+}
 h2 {
 	margin: 10px;
 }
-li {
-	color: green;
+#email {
+	margin: 0 50px;
 }
 p {
 	margin: 10px;
 	text-indent: 10px;
-	color: green;
 }
 aside {
 	margin: 10px;
 	text-indent: 10px;
-<<<<<<< HEAD
-=======
-	color: green;
->>>>>>> origin/master
 }
 nav {
-	margin: 60px;
+	margin: 0 360px;
 }
 footer {
-	margin: 10px;
-	color: green;
+	margin: 0 360px;
 }
