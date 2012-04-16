@@ -2,7 +2,6 @@ body {
 	width: 900px;
 	background-color: black;
 	margin: 0 auto;
-	text-align: center;
 }
 #box {
 	background-color: white;
@@ -45,8 +44,7 @@ nav {
 	margin: 0 auto;
 }
 footer {
-	margin: 0 auto;
-	
+	margin: 0 290px;	
 }
 
 
