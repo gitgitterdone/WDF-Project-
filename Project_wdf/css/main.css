@@ -49,10 +49,8 @@ nav {
 }
 footer {
 	margin: 0 360px;
+	text-align: center;
 	color: green;
-}
-address {
-	margin: 0 360px;
 }
 nav {
 	margin: 60px;
