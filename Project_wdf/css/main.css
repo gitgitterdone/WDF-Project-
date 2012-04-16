@@ -4,6 +4,7 @@ body {
 	margin: 0 auto;
 }
 #box {
+	width: 360px;
 	background-color: white;
 }
 article {
