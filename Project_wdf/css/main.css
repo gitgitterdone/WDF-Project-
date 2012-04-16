@@ -1,8 +1,8 @@
 body {
 	background-color: black;
 }
-box {
-	width: 400px;
+#box {
+	width: 900px;
 	background-color: white;
 }
 article {
