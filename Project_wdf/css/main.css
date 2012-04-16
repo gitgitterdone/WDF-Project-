@@ -43,7 +43,9 @@ p {
 aside {
 	margin: 10px;
 	text-indent: 10px;
-
+}
+address {
+	text-align: center;
 }
 nav {
 	margin: 0 360px;
