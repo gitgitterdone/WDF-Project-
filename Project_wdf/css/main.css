@@ -2,8 +2,9 @@ body {
 	margin: 0 auto;
 	background-color: black;
 }
-div#box {
+#box {
 	width: 900px;
+	margin: 0 auto;
 	background-color: white;
 }
 article {
