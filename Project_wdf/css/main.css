@@ -2,7 +2,7 @@ body {
 	margin: 0 auto;
 	background-color: black;
 }
-#box {
+div#box {
 	width: 900px;
 	background-color: white;
 }
