@@ -1,8 +1,12 @@
 body {
 <<<<<<< HEAD
+	width: 320px;
+=======
+<<<<<<< HEAD
 	width: 900px;
 =======
 	width: 320px;
+>>>>>>> origin/master
 >>>>>>> origin/master
 	background-color: black;
 	margin: 0 auto;
@@ -11,11 +15,14 @@ body {
 	background-color: white;
 }
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 article {
 	width: 320px;
 	margin: 0 290px;
 }
 =======
+>>>>>>> origin/master
 >>>>>>> origin/master
 h1 {
 	text-align: center;
@@ -24,6 +31,8 @@ span {
 	font-style: italic;
 	color: green;
 }
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 figure {
 	margin: 0px 290px;
@@ -37,24 +46,34 @@ h2 {
 #email {
 	margin: 0 50px;
 =======
+>>>>>>> origin/master
 h2 {
 	margin: 10px;
 }
 li {
 	color: green;
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
 >>>>>>> origin/master
 }
 p {
 	margin: 10px;
 	text-indent: 10px;
 <<<<<<< HEAD
+	color: green;
+=======
+<<<<<<< HEAD
 =======
 	color: green;
+>>>>>>> origin/master
 >>>>>>> origin/master
 }
 aside {
 	margin: 10px;
 	text-indent: 10px;
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 }
 nav {
@@ -63,6 +82,7 @@ nav {
 footer {
 	margin: 0 360px;
 =======
+>>>>>>> origin/master
 	color: green;
 }
 nav {
@@ -71,5 +91,8 @@ nav {
 footer {
 	margin: 10px;
 	color: green;
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
 >>>>>>> origin/master
 }
