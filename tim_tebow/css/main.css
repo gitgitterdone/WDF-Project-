@@ -1,12 +1,9 @@
 body {
-<<<<<<< HEAD
-=======
 	width: 900px;
->>>>>>> origin/master
 	background-color: black;
+	margin: 0 auto;
 }
 #box {
-	width: 900px;
 	background-color: white;
 }
 article {
@@ -31,34 +28,18 @@ h2 {
 }
 #email {
 	margin: 0 50px;
-<<<<<<< HEAD
-}
-#links {
-	margin: 0 360px;
-=======
->>>>>>> origin/master
 }
 p {
 	margin: 10px;
 	text-indent: 10px;
 }
 aside {
-	margin: 0 360px;
+	margin: 10px;
 	text-indent: 10px;
 }
 nav {
-<<<<<<< HEAD
-	margin: 0 auto;
+	margin: 0 360px;
 }
 footer {
-	margin: 0 290px;	
+	margin: 0 360px;
 }
-
-
-=======
-	margin: 0 290px;
-}
-footer {
-	margin: 0 290px;
-}
->>>>>>> origin/master
