@@ -3,7 +3,11 @@ body {
 	background-color: black;
 	margin: 0 auto;
 }
+img {
+	width: 320px;
+}
 #box {
+	width: 900px;
 	background-color: white;
 }
 article {
