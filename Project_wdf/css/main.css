@@ -18,6 +18,8 @@ ul {
 	margin: 0 10px;
 }
 li {
+	text-align: left;
+	float: left;
 	margin: 0 10px;
 }
 h1 {
