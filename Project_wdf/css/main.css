@@ -15,12 +15,7 @@ article {
 	margin: 0 290px;
 }
 ul {
-	margin: 0 10px;
-}
-li {
-	text-align: center;
-	float: center;
-	margin: 0 10px;
+	margin: 0 auto;
 }
 h1 {
 	text-align: center;
