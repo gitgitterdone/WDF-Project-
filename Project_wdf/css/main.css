@@ -1,15 +1,20 @@
 body {
+<<<<<<< HEAD
 	width: 900px;
+=======
+>>>>>>> origin/gh-pages
 	background-color: black;
 	margin: 0 auto;
 }
 #box {
+	width: 900px;
 	background-color: white;
 }
 article {
 	width: 320px;
 	margin: 0 290px;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 form {
 	float: right;
@@ -22,6 +27,8 @@ ul {
 	margin: 0 auto;
 >>>>>>> origin/master
 }
+=======
+>>>>>>> origin/gh-pages
 h1 {
 	text-align: center;
 }
@@ -30,7 +37,12 @@ span {
 	color: green;
 }
 figure {
+<<<<<<< HEAD
 	margin: -20px 290px;
+=======
+	width: 320px;
+	margin: 0px 290px;
+>>>>>>> origin/gh-pages
 }
 figcaption {
 	width: 320px;
@@ -38,6 +50,7 @@ figcaption {
 h2 {
 	margin: 10px;
 }
+<<<<<<< HEAD
 li {
 	color: green;
 }
@@ -48,10 +61,16 @@ p {
 	margin: 10px;
 	text-indent: 10px;
 	color: green;
+=======
+p {
+	margin: 10px;
+	text-indent: 10px;
+>>>>>>> origin/gh-pages
 }
 aside {
 	margin: 10px;
 	text-indent: 10px;
+<<<<<<< HEAD
 }
 nav {
 	margin: 0 100px;
@@ -59,4 +78,10 @@ nav {
 footer {
 	margin: 0 360px;
 	color: green;
+=======
+}
+footer {
+	margin: 360px 360px;
+	color: white;
+>>>>>>> origin/gh-pages
 }
