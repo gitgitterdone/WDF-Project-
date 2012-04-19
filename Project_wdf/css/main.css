@@ -2,9 +2,6 @@ body {
 	background-color: black;
 	margin: 0 auto;
 }
-#user {
-	color: white;
-}
 #box {
 	width: 900px;
 	background-color: white;
@@ -12,9 +9,6 @@ body {
 article {
 	width: 320px;
 	margin: 0 290px;
-}
-ul {
-	margin: 0 auto;
 }
 h1 {
 	text-align: center;
@@ -29,9 +23,6 @@ figure {
 }
 figcaption {
 	width: 320px;
-}
-ul {
-	text-align: center;
 }
 h2 {
 	margin: 10px;
