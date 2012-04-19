@@ -10,6 +10,13 @@ article {
 	width: 320px;
 	margin: 0 290px;
 }
+form {
+	float: right;
+	margin: 0 40px;
+}
+header {
+	margin: 65px;
+}
 h1 {
 	text-align: center;
 }
@@ -18,7 +25,7 @@ span {
 	color: green;
 }
 figure {
-	margin: 0px 290px;
+	margin: -20px 290px;
 }
 figcaption {
 	width: 320px;
