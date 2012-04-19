@@ -6,7 +6,8 @@ body {
 	color: white;
 }
 #box {
-	width: 900px
+	width: 900px;
+	height: 1000px;
 	background-color: white;
 }
 article {
