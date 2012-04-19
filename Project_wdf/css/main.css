@@ -1,23 +1,15 @@
 body {
-	width: 900px;
 	background-color: black;
 	margin: 0 auto;
-}
-img {
-	width: 320px;
 }
 #user {
 	color: white;
 }
 #box {
-	width: 900px;
 	background-color: white;
 }
 article {
 	width: 320px;
-	margin: 0 290px;
-}
-form {
 	margin: 0 290px;
 }
 ul {
