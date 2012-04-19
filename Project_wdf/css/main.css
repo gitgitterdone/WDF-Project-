@@ -10,12 +10,17 @@ article {
 	width: 320px;
 	margin: 0 290px;
 }
+<<<<<<< HEAD
 form {
 	float: right;
 	margin: 0 40px;
 }
 header {
 	margin: 65px;
+=======
+ul {
+	margin: 0 auto;
+>>>>>>> origin/master
 }
 h1 {
 	text-align: center;
