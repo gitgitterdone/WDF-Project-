@@ -16,7 +16,7 @@ form {
 	margin: 0 40px;
 }
 header {
-	margin: 0 65px;
+	margin: 65px 0px;
 }
 ul {
 	list-style: none;
@@ -31,7 +31,6 @@ span {
 figure {
 	margin: -20px 290px;
 	width: 320px;
-	margin: 0px 290px;
 }
 figcaption {
 	width: 320px;
