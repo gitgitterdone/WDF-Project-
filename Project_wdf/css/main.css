@@ -6,6 +6,7 @@ body {
 	color: white;
 }
 #box {
+	width: 900px
 	background-color: white;
 }
 article {
