@@ -11,31 +11,41 @@
 	<form>
 	<fieldset>
 	<legend>Personal Information</legend>
-	First Name: <input type="text" name="firstname" /><br />
-	Last Name:  <input type="text" name="lastname" /><br />
-	E-mail: <input type="email" name="usremail" autofocus="autofocus" placeholder="example@example.com" required="required" /><br />
-	Birthdate: <input type="date" name="bday" autofocus="autofocus" /><br />
+	First Name: <input type="text" name="firstname" title="First Name" /><br />
+	Last Name:  <input type="text" name="lastname" title="Last Name" /><br />
+	E-mail: <input type="email" name="usremail" autofocus="autofocus" placeholder="example@example.com" required="required" title="E-Mail" /><br />
+	Birthdate: <input type="date" name="bday" autofocus="autofocus" title="Birthdate" /><br />
 	</fieldset>
+	</form>
+	<form>
+	<fieldset>
+	<legend>Questionnaire</legend>
 	Are you an avid football fan? <label for="yes">Yes</label>
 	<input type="radio" name="response" value="yes" id="yes"/>
 	<label for="no">No</label>
 	<input type="radio" name="response" value="no" id="no" /> 
 	<br />
-	<input type="checkbox" name="sports" value="Football" /> I watch football games regularly on tv<br />
-	<input type="checkbox" name="sports" value="Basketball" /> I attend football games on a regular basis<br />
-	<input type="checkbox" name="sports" value="Basketball" /> I do not watch or attend football games
+	<label for="watch">I watch football games regularly on tv</label>
+	<input type="checkbox" name="sports" value="Football" id="watch" /> 
 	<br />
-	How much do you admire Tim Tebow? (from 1 to 10): <input type="range" name="Rate your Experience" min="1" max="10" /><br />
+	<label for="attend">I attend football games on a regular basis</label>
+	<input type="checkbox" name="sports" value="Basketball" id="attend" /> 
+	<br />
+	<label for="donot">I do not watch or attend football games</label>
+	<input type="checkbox" name="sports" value="Basketball" id="donot" /> 
+	<br />
+	How much do you admire Tim Tebow? (from 1 to 10): <input type="range" name="Rate your Experience" min="1" max="10" title="Scale from 1 to 10" /><br />
 	What is your talent level when playing football in video games?
-	<select>
-		<option>Beginner</option>
-		<option>Intermediate</option>
-		<option>Advanced</option>
+	<select title="Level in video games">
+		<option title="Beginner">Beginner</option>
+		<option title="Intermediate">Intermediate</option>
+		<option title="Advanced">Advanced</option>
 	</select>
 	<br />
-	<textarea rows="10" cols="40">
+	<textarea rows="10" cols="40" title="Reasons for joining fan club">
 	Give us reasons why you would like to be a part of the Tim Tebow Fan Club.
 	</textarea>
+	</fieldset>
 	<input type="submit" value="Submit" /> 
 	<button type="reset" value="Reset">Reset</button>
 	</form>
