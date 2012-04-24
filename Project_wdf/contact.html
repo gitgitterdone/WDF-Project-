@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-	<title>Tim Tebow Fan Club</title>
+	<title>Tim Tebow Fan Club | Sign Up Page</title>
 	<meta charset="utf-8" />
 	</head>
 	<body>
@@ -9,12 +9,18 @@
 	<h1>Tim Tebow Fans</h1>
 	<p>Sign up to be a part of the Tim Tebow Fan Club! Fill out the information below and submit. You will get a chance to meet Tim Tebow personally once a member. Get started Today!</p>
 	<form>
+	<fieldset>
+	<legend>Personal Information</legend>
 	First Name: <input type="text" name="firstname" /><br />
 	Last Name:  <input type="text" name="lastname" /><br />
 	E-mail: <input type="email" name="usremail" autofocus="autofocus" placeholder="example@example.com" required="required" /><br />
 	Birthdate: <input type="date" name="bday" autofocus="autofocus" /><br />
-	Are you an avid football fan? <input type="radio" name="response" value="yes" /> Yes
-	<input type="radio" name="response" value="no" /> No<br />
+	</fieldset>
+	Are you an avid football fan? <label for="yes">Yes</label>
+	<input type="radio" name="response" value="yes" id="yes"/>
+	<label for="no">No</label>
+	<input type="radio" name="response" value="no" id="no" /> 
+	<br />
 	<input type="checkbox" name="sports" value="Football" /> I watch football games regularly on tv<br />
 	<input type="checkbox" name="sports" value="Basketball" /> I attend football games on a regular basis<br />
 	<input type="checkbox" name="sports" value="Basketball" /> I do not watch or attend football games
